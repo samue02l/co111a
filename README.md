@@ -20,3 +20,8 @@
 第三章參考同學的也有進行修改
 
 第四章和第五章複製老師或同學的
+
+# 參考資料
+陳鈡城老師的網站 https://gitlab.com/cccnqu111/co/-/tree/master/01
+
+Nand2tetris的網站 https://tomorrow0w0.gitbooks.io/nand2tetris-homework/content/chapter1/Nand.html
